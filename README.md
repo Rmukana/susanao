@@ -6,8 +6,7 @@ Slice and separate meshes instantly from Object Mode with a single partition lin
 - **Perfect for:** iPad and Low-Spec PC users
 - **Status:** Free vr1 (v136)
 
----
-[⬇️ Download the latest version here](https://github.com/Rmukana/susanawo/releases/latest)oading deepseek_markdown_20261028_f6e320.md…]()
+[⬇️ Download the latest version here](https://github.com/Rmukana/susanawo/releases/latest)
 
 
 
