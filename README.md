@@ -1,44 +1,20 @@
+[deepseek_markdown_20261028_f6e320.md](https://github.com/user-attachments/files/34075793/deepseek_markdown_20261028_f6e320.md)[Upl# susanao (Free Version)
+
+Slice and separate meshes instantly from Object Mode with a single partition line.
+
+- **Compatible:** Blender 3.3 LTS to 4.5, 5.1.2
+- **Perfect for:** iPad and Low-Spec PC users
+- **Status:** Free vr1 (v136)
+
+---
+[⬇️ Download the latest version here](https://github.com/Rmukana/susanawo/releases/latest)oading deepseek_markdown_20261028_f6e320.md…]()
+
 
 
    
           
+<img width="1924" height="1078" alt="sepa_001" src="https://github.com/user-attachments/assets/ff24fdde-6e64-47ad-a448-96b5323a66c7" />
 
-        
-  
-
- 
-    
-  
-    
-   
-      
-
-        
-       
-         
-        
-       
-
-
-
-    
-     
-            
-        
-           
-            
-    
-
-
-
-
-
-
-
- 
-
-
-# **Initial Validation of Coordinate Point Extraction Using SuRiZa Grid-Type Blades and the Shift Toward Stabilization**
 
 **July 24, 2026 — Research and Development Record**
 
