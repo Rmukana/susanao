@@ -1,16 +1,5 @@
 
 
-
-
-
-
- 
-*Note: After downloading, open Blender 3.3+, go to Preferences -> Add-ons -> Install, and select this ZIP file to instantly activate the official baseline system.*
-
-
-<details>
-<summary>⛔ [DevLog] history gemini-suriza2.95v.py</summary>
-
    
           
 
