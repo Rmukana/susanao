@@ -6,7 +6,7 @@ Slice and separate meshes instantly from Object Mode with a single partition lin
 - **Perfect for:** iPad and Low-Spec PC users
 - **Status:** Free vr1.1 (v139)
 
-⬇️ Download the latest version here](https://github.com/Rmukana/susanawo/releases/latest)
+[⬇️ Download the latest version here](https://github.com/Rmukana/susanao/releases/latest)
 
 
 
